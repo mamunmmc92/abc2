@@ -1,0 +1,5 @@
+/*
+  Access-Control-Allow-Origin: https://www.mybdresults24.com
+  Access-Control-Allow-Methods: GET, POST, OPTIONS
+  Access-Control-Allow-Headers: Content-Type
+  Access-Control-Max-Age: 86400
